@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\felip\\Documents\\Projetos\\OtterCore\\DinoOtter\\DinoOtter.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\felip\\Documents\\Projetos\\OtterCore\\DinoOtter\\DinoOtter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\felip\\Documents\\Projetos\\OtterCore\\DinoOtter\\DinoOtter.csproj",
+        "projectName": "DinoOtter",
+        "projectPath": "C:\\Users\\felip\\Documents\\Projetos\\OtterCore\\DinoOtter\\DinoOtter.csproj",
+        "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felip\\Documents\\Projetos\\OtterCore\\DinoOtter\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Colorful.Console": {
+              "target": "Package",
+              "version": "[1.2.9, )"
+            },
+            "SFML.Net": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

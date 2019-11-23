@@ -1,0 +1,9 @@
+C:\Users\felip\Documents\Projetos\OtterCore\Otter\bin\Debug\netcoreapp3.0\Otter.deps.json
+C:\Users\felip\Documents\Projetos\OtterCore\Otter\bin\Debug\netcoreapp3.0\Otter.dll
+C:\Users\felip\Documents\Projetos\OtterCore\Otter\bin\Debug\netcoreapp3.0\Otter.pdb
+C:\Users\felip\Documents\Projetos\OtterCore\Otter\obj\Debug\netcoreapp3.0\Otter.csprojAssemblyReference.cache
+C:\Users\felip\Documents\Projetos\OtterCore\Otter\obj\Debug\netcoreapp3.0\Otter.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\Projetos\OtterCore\Otter\obj\Debug\netcoreapp3.0\Otter.AssemblyInfo.cs
+C:\Users\felip\Documents\Projetos\OtterCore\Otter\obj\Debug\netcoreapp3.0\Otter.dll
+C:\Users\felip\Documents\Projetos\OtterCore\Otter\obj\Debug\netcoreapp3.0\Otter.pdb
+C:\Users\felip\Documents\Projetos\OtterCore\Otter\bin\Debug\netcoreapp3.0\Consolas.ttf

@@ -1,0 +1,9 @@
+C:\Users\felip\Documents\Projetos\OtterCore\DinoOtter\bin\Debug\netcoreapp3.0\Consolas.ttf
+C:\Users\felip\Documents\Projetos\OtterCore\DinoOtter\bin\Debug\netcoreapp3.0\DinoOtter.deps.json
+C:\Users\felip\Documents\Projetos\OtterCore\DinoOtter\bin\Debug\netcoreapp3.0\DinoOtter.dll
+C:\Users\felip\Documents\Projetos\OtterCore\DinoOtter\bin\Debug\netcoreapp3.0\DinoOtter.pdb
+C:\Users\felip\Documents\Projetos\OtterCore\DinoOtter\obj\Debug\netcoreapp3.0\DinoOtter.csprojAssemblyReference.cache
+C:\Users\felip\Documents\Projetos\OtterCore\DinoOtter\obj\Debug\netcoreapp3.0\DinoOtter.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\Projetos\OtterCore\DinoOtter\obj\Debug\netcoreapp3.0\DinoOtter.AssemblyInfo.cs
+C:\Users\felip\Documents\Projetos\OtterCore\DinoOtter\obj\Debug\netcoreapp3.0\DinoOtter.dll
+C:\Users\felip\Documents\Projetos\OtterCore\DinoOtter\obj\Debug\netcoreapp3.0\DinoOtter.pdb

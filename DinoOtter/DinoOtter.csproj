@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <None Remove="Consolas.ttf" />
+        <EmbeddedResource Include="Consolas.ttf">
+            <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+        </EmbeddedResource>
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Colorful.Console" Version="1.2.9" />
+        <PackageReference Include="SFML.Net" Version="2.5.0" />
+    </ItemGroup>
+
+</Project>
