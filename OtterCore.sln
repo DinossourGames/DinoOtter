@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinoOtter", "DinoOtter\DinoOtter.csproj", "{1EBFE7C1-AAC8-4A8B-8EFF-E55348F35FE3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuntimeTest", "RuntimeTest\RuntimeTest.csproj", "{BE2E87E9-9B1B-474F-BB5B-6192C1BBA526}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{1EBFE7C1-AAC8-4A8B-8EFF-E55348F35FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EBFE7C1-AAC8-4A8B-8EFF-E55348F35FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EBFE7C1-AAC8-4A8B-8EFF-E55348F35FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE2E87E9-9B1B-474F-BB5B-6192C1BBA526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2E87E9-9B1B-474F-BB5B-6192C1BBA526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2E87E9-9B1B-474F-BB5B-6192C1BBA526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2E87E9-9B1B-474F-BB5B-6192C1BBA526}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

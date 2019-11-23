@@ -138,7 +138,7 @@ namespace DinoOtter {
             get {
                 if (defaultFont == null)
                 {
-                    defaultFont = Load("Consolas.ttf");
+                    defaultFont = Load(System.Reflection.Assembly.GetExecutingAssembly().GetManifestResourceStream("DinoOtter.Consolas.ttf"));
                 }
                 return defaultFont;
             }

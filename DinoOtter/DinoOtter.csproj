@@ -9,6 +9,8 @@
         <EmbeddedResource Include="Consolas.ttf">
             <CopyToOutputDirectory>Always</CopyToOutputDirectory>
         </EmbeddedResource>
+        <None Remove="patricio.png" />
+        <EmbeddedResource Include="patricio.png" />
     </ItemGroup>
 
     <ItemGroup>

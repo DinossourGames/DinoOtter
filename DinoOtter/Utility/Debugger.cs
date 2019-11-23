@@ -1044,6 +1044,10 @@ namespace DinoOtter
 
             game.Input.bufferReleases = false;
 
+            imgOtter = new Image(new Texture(Assembly.GetExecutingAssembly()
+                .GetManifestResourceStream("DinoOtter.patricio.png")));
+
+            
             game.Window.SetKeyRepeatEnabled(false);
 
             game.debuggerAdvance = 0;

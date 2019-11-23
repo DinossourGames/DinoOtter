@@ -1,7 +1,108 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05fa8697-68c9-4a94-98e0-2332fa49bbc2" name="Default Changelist" comment="" />
+    <list default="true" id="05fa8697-68c9-4a94-98e0-2332fa49bbc2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DinoOtter/patricio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/Assets/patricio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/RuntimeTest.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/Assets/patricio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/Colorful.Console.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/Consolas.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/DinoOtter.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/DinoOtter.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/RuntimeTest.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/RuntimeTest.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/RuntimeTest.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/RuntimeTest.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/RuntimeTest.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/RuntimeTest.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/SFML.Audio.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/SFML.Graphics.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/SFML.System.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/SFML.Window.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/alpine-x64/native/libcsfml-audio.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/alpine-x64/native/libcsfml-graphics.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/alpine-x64/native/libcsfml-system.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/alpine-x64/native/libcsfml-window.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/alpine-x64/native/libsfml-audio.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/alpine-x64/native/libsfml-audio.so.2.5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/alpine-x64/native/libsfml-audio.so.2.5.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/alpine-x64/native/libsfml-graphics.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/alpine-x64/native/libsfml-graphics.so.2.5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/alpine-x64/native/libsfml-graphics.so.2.5.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/alpine-x64/native/libsfml-system.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/alpine-x64/native/libsfml-system.so.2.5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/alpine-x64/native/libsfml-system.so.2.5.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/alpine-x64/native/libsfml-window.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/alpine-x64/native/libsfml-window.so.2.5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/alpine-x64/native/libsfml-window.so.2.5.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/debian-x64/native/libcsfml-audio.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/debian-x64/native/libcsfml-graphics.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/debian-x64/native/libcsfml-system.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/debian-x64/native/libcsfml-window.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/debian-x64/native/libsfml-audio.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/debian-x64/native/libsfml-audio.so.2.5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/debian-x64/native/libsfml-audio.so.2.5.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/debian-x64/native/libsfml-graphics.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/debian-x64/native/libsfml-graphics.so.2.5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/debian-x64/native/libsfml-graphics.so.2.5.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/debian-x64/native/libsfml-system.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/debian-x64/native/libsfml-system.so.2.5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/debian-x64/native/libsfml-system.so.2.5.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/debian-x64/native/libsfml-window.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/debian-x64/native/libsfml-window.so.2.5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/debian-x64/native/libsfml-window.so.2.5.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/fedora-x64/native/libcsfml-audio.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/fedora-x64/native/libcsfml-graphics.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/fedora-x64/native/libcsfml-system.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/fedora-x64/native/libcsfml-window.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/fedora-x64/native/libsfml-audio.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/fedora-x64/native/libsfml-audio.so.2.5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/fedora-x64/native/libsfml-audio.so.2.5.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/fedora-x64/native/libsfml-graphics.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/fedora-x64/native/libsfml-graphics.so.2.5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/fedora-x64/native/libsfml-graphics.so.2.5.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/fedora-x64/native/libsfml-system.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/fedora-x64/native/libsfml-system.so.2.5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/fedora-x64/native/libsfml-system.so.2.5.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/fedora-x64/native/libsfml-window.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/fedora-x64/native/libsfml-window.so.2.5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/fedora-x64/native/libsfml-window.so.2.5.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/csfml-Audio.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/csfml-Graphics.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/csfml-System.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/csfml-Window.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/openal32.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/csfml-Audio.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/csfml-Graphics.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/csfml-System.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/csfml-Window.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/openal32.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/obj/Debug/netcoreapp3.0/RuntimeTest.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/obj/Debug/netcoreapp3.0/RuntimeTest.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/obj/Debug/netcoreapp3.0/RuntimeTest.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/obj/Debug/netcoreapp3.0/RuntimeTest.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/obj/Debug/netcoreapp3.0/RuntimeTest.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/obj/Debug/netcoreapp3.0/RuntimeTest.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/obj/Debug/netcoreapp3.0/RuntimeTest.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/obj/Debug/netcoreapp3.0/RuntimeTest.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/obj/RuntimeTest.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/obj/RuntimeTest.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/obj/RuntimeTest.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/obj/RuntimeTest.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeTest/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OtterCore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OtterCore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DinoOtter/DinoOtter.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DinoOtter/DinoOtter.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DinoOtter/Utility/Cache.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DinoOtter/Utility/Cache.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DinoOtter/Utility/Debugger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DinoOtter/Utility/Debugger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DinoOtter/bin/Debug/netcoreapp3.0/DinoOtter.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DinoOtter/bin/Debug/netcoreapp3.0/DinoOtter.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DinoOtter/bin/Debug/netcoreapp3.0/DinoOtter.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DinoOtter/bin/Debug/netcoreapp3.0/DinoOtter.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DinoOtter/obj/Debug/netcoreapp3.0/DinoOtter.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DinoOtter/obj/Debug/netcoreapp3.0/DinoOtter.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DinoOtter/obj/Debug/netcoreapp3.0/DinoOtter.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DinoOtter/obj/Debug/netcoreapp3.0/DinoOtter.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtterCore.sln" beforeDir="false" afterPath="$PROJECT_DIR$/OtterCore.sln" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +154,7 @@
     <setting file="file://$PROJECT_DIR$/DinoOtter/Components/SineWave.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DinoOtter/Components/Controllers/Controller.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DinoOtter/Components/Controllers/ControllerPS3.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RuntimeTest/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DinoOtter/Components/Counter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DinoOtter/obj/Debug/netcoreapp3.0/DinoOtter.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DinoOtter/Components/Button.cs" root0="FORCE_HIGHLIGHTING" />
@@ -138,6 +240,9 @@
         <option value="$PROJECT_DIR$/Otter/Utility/Debugger.cs" />
         <option value="$PROJECT_DIR$/Otter/Otter.csproj" />
         <option value="$PROJECT_DIR$/GameTest/Program.cs" />
+        <option value="$PROJECT_DIR$/DinoOtter/Utility/Cache.cs" />
+        <option value="$PROJECT_DIR$/RuntimeTest/Program.cs" />
+        <option value="$PROJECT_DIR$/DinoOtter/Utility/Debugger.cs" />
       </list>
     </option>
   </component>
@@ -148,24 +253,16 @@
       </set>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/.idea.OtterCore/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/.idea.OtterCore/.idea/indexLayout.xml" />
-        <option value="$PROJECT_DIR$/.idea/.idea.OtterCore/.idea/projectSettingsUpdater.xml" />
-        <option value="$PROJECT_DIR$/.idea/.gitignore" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectId" id="1U1lqggHJ8gkdYhHIRDOMuJgR7S" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -183,14 +280,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/GameTest/bin/Debug/netcoreapp3.0/GameTest.dll" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0/RuntimeTest.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GameTest/bin/Debug/netcoreapp3.0" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RuntimeTest/bin/Debug/netcoreapp3.0" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/GameTest/GameTest.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RuntimeTest/RuntimeTest.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -209,7 +306,8 @@
       <option name="presentableId" value="Default" />
       <updated>1574532174642</updated>
       <workItem from="1574532176166" duration="7427000" />
-      <workItem from="1574539686092" duration="590000" />
+      <workItem from="1574539686092" duration="716000" />
+      <workItem from="1574540442357" duration="1017000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit;">
       <created>1574540279205</created>
@@ -218,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574540279205</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Vcs Update;">
+      <created>1574540300433</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574540300433</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,7 +348,60 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
     <MESSAGE value="First Commit;" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit;" />
+    <MESSAGE value="Vcs Update;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vcs Update;" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="964" y="200" key="#Default" />
+    <state x="964" y="200" key="#Default/2560.1080/1600.900" />
+    <state width="2517" height="343" key="GridCell.Tab.0.bottom" />
+    <state width="2517" height="343" key="GridCell.Tab.0.bottom/2560.1080/1600.900" />
+    <state width="2517" height="343" key="GridCell.Tab.0.center" />
+    <state width="2517" height="343" key="GridCell.Tab.0.center/2560.1080/1600.900" />
+    <state width="2517" height="343" key="GridCell.Tab.0.left" />
+    <state width="2517" height="343" key="GridCell.Tab.0.left/2560.1080/1600.900" />
+    <state width="2517" height="343" key="GridCell.Tab.0.right" />
+    <state width="2517" height="343" key="GridCell.Tab.0.right/2560.1080/1600.900" />
+    <state width="2517" height="343" key="GridCell.Tab.1.bottom" />
+    <state width="2517" height="343" key="GridCell.Tab.1.bottom/2560.1080/1600.900" />
+    <state width="2517" height="343" key="GridCell.Tab.1.center" />
+    <state width="2517" height="343" key="GridCell.Tab.1.center/2560.1080/1600.900" />
+    <state width="2517" height="343" key="GridCell.Tab.1.left" />
+    <state width="2517" height="343" key="GridCell.Tab.1.left/2560.1080/1600.900" />
+    <state width="2517" height="343" key="GridCell.Tab.1.right" />
+    <state width="2517" height="343" key="GridCell.Tab.1.right/2560.1080/1600.900" />
+    <state width="2517" height="343" key="GridCell.Tab.2.bottom" />
+    <state width="2517" height="343" key="GridCell.Tab.2.bottom/2560.1080/1600.900" />
+    <state width="2517" height="343" key="GridCell.Tab.2.center" />
+    <state width="2517" height="343" key="GridCell.Tab.2.center/2560.1080/1600.900" />
+    <state width="2517" height="343" key="GridCell.Tab.2.left" />
+    <state width="2517" height="343" key="GridCell.Tab.2.left/2560.1080/1600.900" />
+    <state width="2517" height="343" key="GridCell.Tab.2.right" />
+    <state width="2517" height="343" key="GridCell.Tab.2.right/2560.1080/1600.900" />
+    <state width="2517" height="343" key="GridCell.Tab.3.bottom" />
+    <state width="2517" height="343" key="GridCell.Tab.3.bottom/2560.1080/1600.900" />
+    <state width="2517" height="343" key="GridCell.Tab.3.center" />
+    <state width="2517" height="343" key="GridCell.Tab.3.center/2560.1080/1600.900" />
+    <state width="2517" height="343" key="GridCell.Tab.3.left" />
+    <state width="2517" height="343" key="GridCell.Tab.3.left/2560.1080/1600.900" />
+    <state width="2517" height="343" key="GridCell.Tab.3.right" />
+    <state width="2517" height="343" key="GridCell.Tab.3.right/2560.1080/1600.900" />
+    <state width="2517" height="343" key="GridCell.Tab.4.bottom" />
+    <state width="2517" height="343" key="GridCell.Tab.4.bottom/2560.1080/1600.900" />
+    <state width="2517" height="343" key="GridCell.Tab.4.center" />
+    <state width="2517" height="343" key="GridCell.Tab.4.center/2560.1080/1600.900" />
+    <state width="2517" height="343" key="GridCell.Tab.4.left" />
+    <state width="2517" height="343" key="GridCell.Tab.4.left/2560.1080/1600.900" />
+    <state width="2517" height="343" key="GridCell.Tab.4.right" />
+    <state width="2517" height="343" key="GridCell.Tab.4.right/2560.1080/1600.900" />
+    <state x="882" y="188" key="Rider.ProjectTemplateDialog.Size" />
+    <state x="882" y="188" key="Rider.ProjectTemplateDialog.Size/2560.1080/1600.900" />
+    <state x="956" y="253" key="Vcs.Push.Dialog" />
+    <state x="956" y="253" key="Vcs.Push.Dialog/2560.1080/1600.900" />
+    <state x="958" y="195" width="644" height="660" key="find.popup" />
+    <state x="958" y="195" width="644" height="660" key="find.popup/2560.1080/1600.900" />
+    <state x="943" y="227" width="1344" height="678" key="search.everywhere.popup" />
+    <state x="943" y="227" width="1344" height="678" key="search.everywhere.popup/2560.1080/1600.900" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,0 +1,47 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\felip\\Documents\\Projetos\\OtterCore\\RuntimeTest\\RuntimeTest.csproj",
+    "projectName": "RuntimeTest",
+    "projectPath": "C:\\Users\\felip\\Documents\\Projetos\\OtterCore\\RuntimeTest\\RuntimeTest.csproj",
+    "outputPath": "C:\\Users\\felip\\Documents\\Projetos\\OtterCore\\RuntimeTest\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {
+          "C:\\Users\\felip\\Documents\\Projetos\\OtterCore\\DinoOtter\\DinoOtter.csproj": {
+            "projectPath": "C:\\Users\\felip\\Documents\\Projetos\\OtterCore\\DinoOtter\\DinoOtter.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
