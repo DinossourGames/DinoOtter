@@ -1,139 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05fa8697-68c9-4a94-98e0-2332fa49bbc2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.OtterCore/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Colliders/BoxCollider.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Colliders/CircleCollider.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Colliders/Collider.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Colliders/GridCollider.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Colliders/LineCollider.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Colliders/PixelCollider.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Colliders/PointCollider.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Colliders/PolygonCollider.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Components/Alarm.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Components/AutoTimer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Components/Axis.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Components/Bone.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Components/Button.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Components/Component.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Components/Controllers/Controller.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Components/Controllers/ControllerPS3.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Components/Controllers/ControllerXbox360.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Components/Countdown.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Components/Counter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Components/Events/EventProcessor.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Components/Events/EventProcessorEvent.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Components/Events/EventQueue.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Components/Events/EventStack.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Components/GridCounter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Components/IRC.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Components/Lerper.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Components/Movement/BasicMovement.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Components/Movement/Movement.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Components/Movement/PlatformingMovement.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Components/SineWave.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Components/Skeleton.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Components/Snake.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Components/StateMachine.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Components/Vertebrae.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Consolas.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Core/Entity.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Core/Game.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Core/Input.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Core/Music.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Core/Scene.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Core/Session.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Core/Sound.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/DinoOtter.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Graphics/Anim.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Graphics/Atlas.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Graphics/Color.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Graphics/Drawables/Decals.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Graphics/Drawables/Gradient.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Graphics/Drawables/Graphic.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Graphics/Drawables/GraphicList.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Graphics/Drawables/Grid.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Graphics/Drawables/Image.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Graphics/Drawables/ImageSet.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Graphics/Drawables/NineSlice.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Graphics/Drawables/Spritemap.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Graphics/Drawables/SquareClock.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Graphics/Drawables/Surface.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Graphics/Drawables/Tilemap.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Graphics/Drawables/Vertices.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Graphics/Shader.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Graphics/Text/BitmapFont.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Graphics/Text/Font.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Graphics/Text/RichText.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Graphics/Text/Text.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Graphics/Texture.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Graphics/Transformation.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Graphics/Vert.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/Cache.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/Coroutine.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/DataSaver.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/DebugInput.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/Debugger.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/Draw.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/Entities/Flash.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/Entities/Particle.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/EventRouter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/Extensions.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/Glide/Ease.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/Glide/GlideInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/Glide/GlideLerper.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/Glide/Tween.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/Glide/Tweener.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/GoodStuff/NaturalLanguage.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/Line2.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/MonoGame/MathHelper.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/MonoGame/Matrix.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/MonoGame/Point.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/MonoGame/Quaternion.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/MonoGame/Rectangle.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/MonoGame/Vector2.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/MonoGame/Vector3.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/MonoGame/Vector4.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/OgmoProject.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/Polygon.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/Rand.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/Range.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/Ref.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/Speed.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/SpriteBatch.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/Utility/Util.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/bin/Debug/netcoreapp3.0/Consolas.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/bin/Debug/netcoreapp3.0/DinoOtter.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/bin/Debug/netcoreapp3.0/DinoOtter.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/bin/Debug/netcoreapp3.0/DinoOtter.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/bin/Debug/netcoreapp3.0/Otter.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/obj/Debug/netcoreapp3.0/DinoOtter.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/obj/Debug/netcoreapp3.0/DinoOtter.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/obj/Debug/netcoreapp3.0/DinoOtter.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/obj/Debug/netcoreapp3.0/DinoOtter.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/obj/Debug/netcoreapp3.0/DinoOtter.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/obj/Debug/netcoreapp3.0/DinoOtter.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/obj/Debug/netcoreapp3.0/DinoOtter.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/obj/Debug/netcoreapp3.0/Otter.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/obj/Debug/netcoreapp3.0/Otter.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/obj/Debug/netcoreapp3.0/Otter.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/obj/Debug/netcoreapp3.0/Otter.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/obj/Debug/netcoreapp3.0/Otter.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/obj/Debug/netcoreapp3.0/Otter.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/obj/Debug/netcoreapp3.0/Otter.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/obj/DinoOtter.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/obj/DinoOtter.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/obj/DinoOtter.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/obj/DinoOtter.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/obj/Otter.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/obj/Otter.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/obj/Otter.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/obj/Otter.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DinoOtter/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtterCore.sln" afterDir="false" />
-    </list>
+    <list default="true" id="05fa8697-68c9-4a94-98e0-2332fa49bbc2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,9 +78,6 @@
     <setting file="file://$PROJECT_DIR$/DinoOtter/Colliders/GridCollider.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DinoOtter/Colliders/Collider.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DinoOtter/obj/Debug/netcoreapp3.0/Otter.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DinoOtter/Utility/OgmoProject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DinoOtter/Utility/SpriteBatch.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DinoOtter/Utility/Extensions.cs" root0="FORCE_HIGHLIGHTING" />
@@ -283,6 +148,16 @@
       </set>
     </option>
   </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.OtterCore/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.OtterCore/.idea/indexLayout.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.OtterCore/.idea/projectSettingsUpdater.xml" />
+        <option value="$PROJECT_DIR$/.idea/.gitignore" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1U1lqggHJ8gkdYhHIRDOMuJgR7S" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -334,20 +209,31 @@
       <option name="presentableId" value="Default" />
       <updated>1574532174642</updated>
       <workItem from="1574532176166" duration="7427000" />
+      <workItem from="1574539686092" duration="590000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit;">
+      <created>1574540279205</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574540279205</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -356,6 +242,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+    <MESSAGE value="First Commit;" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
